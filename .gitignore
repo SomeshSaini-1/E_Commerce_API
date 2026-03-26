@@ -4,3 +4,4 @@ uploads/products/*
 !uploads/products/.gitkeep
 dist/
 *.log
+readmetext.text
