@@ -5,3 +5,5 @@ uploads/products/*
 dist/
 *.log
 readmetext.text
+postman_collection.json
+
